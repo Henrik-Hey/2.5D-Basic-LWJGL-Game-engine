@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<Inventory>
+	<weapon id="0" type="melee" damage="1000" cost="1000" weight="1" name=" Excalibur   "/>
+	<weapon id="0" type="melee" damage="1000" cost="1" weight="1"    name=" God weapon  "/>
+	<weapon id="0" type="melee" damage="1000" cost="1" weight="1"    name=" DevTool5000 "/>
+	<weapon id="0" type="melee" damage="1000" cost="1" weight="1"    name=" pls love me "/>
+</Inventory>
+
+
+

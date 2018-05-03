@@ -1,0 +1,19 @@
+<?xml version="1.0"?> 
+<Inventory>
+  <Limb 
+	ID="2"
+	parentXOffset="-0.85" 
+	parentYOffset="-0.1" 
+	parentZOffset="0.0" 
+	MinXRot="-45"  MinYRot="0" MinZRot="0" 
+	MaxXRot="20" MaxYRot="0" MaxZRot="0"
+  />
+ <Limb 
+	ID="6"
+	parentXOffset="-0.85" 
+	parentYOffset="0.25" 
+	parentZOffset="0.0" 
+	MinXRot="-45"  MinYRot="0" MinZRot="0" 
+	MaxXRot="20" MaxYRot="0" MaxZRot="0"
+  />
+</Inventory>
